@@ -1,4 +1,4 @@
-// CS 539, Hw4, Ayla Astudillo
+// CS 539, Hw4, Ayla Astudillo Hello World
 
 #include <stdlib.h>
 #include <stdio.h>
